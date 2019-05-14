@@ -1,3 +1,7 @@
+# Inicio
+
+Para hacerlo funcional completar con los datos personales de firebase en "environments/environment.ts".
+
 # FotoFirebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
